@@ -1,0 +1,25 @@
+
+/*********************************pretty photo**********************************/
+.margin-bot {margin-bottom:35px;}
+.spacing {margin-right:15px;}
+.spacing2 {margin-right:45px;}
+.spacing3 {margin-right:60px;}
+.indent-bot {margin-bottom:20px;}
+.indent-bot2 {margin-bottom:30px;}
+.indent-bot3 {margin-bottom:45px;}
+.img-indent-bot {margin-bottom:25px;}
+.img-indent {float:left;margin:0 20px 0px 0;}
+.img-indent2 {float:left;margin:0 25px 0px 0;}
+.img-indent3 {float:left;margin:0 11px 0px 0;}
+.img-indent-r {float:right;margin:0 0px 0px 40px;}
+.prev-indent-bot {margin-bottom:10px;display:block;}
+.prev-indent {float:left;margin:0 17px 0px 0;}
+.padding-top {padding-top:5px;}
+.padding-top1 {padding-top:50px !important;}
+.padding-top2 {padding-top:25px;}
+a.border {border:10px solid #fff;display:inline-block;}
+a.border:hover {border:10px solid #cacaca;}
+.buttons a:hover {cursor:pointer;}
+.menu li a, .list-1 li a, .list-2 li a, .link, .logo {text-decoration:none;}
+
+
