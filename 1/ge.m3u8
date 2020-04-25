@@ -1,0 +1,61 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
+
+#EXTINF:0 group-title="ქართული" tvg-id="2560" tvg-logo="https://cdn.1tv.ge/app/uploads/2018/02/27605370_1918620691500348_1944534598_o-1517490065.jpg", პირველი არხი
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://reginfo.ge/media/k2/items/cache/015d1cb770239dabcf48929576ac050f_XL.jpg?t=1563801590", რუსთავი 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2563" tvg-logo="http://mediamall.ge/uploads/data/20161111151605207871135.jpg", იმედი
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg", მეორე არხი
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-8-ml1vLfAXk/Vdg_2PtcSnI/AAAAAAAAGv4/ByE0M_SYcaA/s640/IMG_20150822_144749.jpg", მარაო
+http://tv.cdn.xsg.ge/marao/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2561" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/GDS_LOGO.jpg", GDS
+http://tv.cdn.xsg.ge/gds/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2565" tvg-logo="https://grass.org.ge/uploads/image/2019-08-22/532.jpg" tvg-country="GE" tvg-url="",TV პირველი
+https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://formula.ge/assets/img/logo_geo.png" tvg-country="GE" tvg-url="",ფორმულა
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://i.ytimg.com/vi/bgr5AMJd8UE/maxresdefault_live.jpg" tvg-country="GE" tvg-url="",მაესტრო
+https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="", ახალი 2
+http://tv.cdn.xsg.ge/axali2hq/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://www.giniko.com/logos/190x110/1024.jpg" tvg-country="GE" tvg-url="",მთავარი არხი
+https://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://palitranews.ge/img/bela/news/19511182_1388157294606110_243740536486080254_n.jpg" tvg-country="GE" tvg-url="",Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmdRGzbgAEI7S7UgkY1rNgNnSWRHb-LxHk_KSdr1xCLZLMbv5p&usqp=CAU", Comedy
+http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://i.imgur.com/ku9kLp8.png" tvg-country="GE" tvg-url="",Music Box Georgia
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://i.imgur.com/RJAT25i.jpg" tvg-country="GE" tvg-url="",Enki-Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSQhPMhJ8jrBbCo750usmw1xeNAexG2IMppF03W18-k8FfyH9y&usqp=CAU", Shoni TV
+http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2564" tvg-logo="http://epg.it999.ru/img/2564.png" tvg-rec="0",TV 25
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/2205/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2566" tvg-logo="http://epg.it999.ru/img/2566.png" tvg-rec="0",Obieqtivi TV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/2207/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2567" tvg-logo="http://epg.it999.ru/img/2567.png" tvg-rec="0",Ajara TV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/2208/index.m3u8
+
+#EXTINF:0 group-title="ქართული" tvg-id="2567" tvg-logo="http://epg.it999.ru/img/2567.png" tvg-rec="0",Ajara TV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/2208/index.m3u8
