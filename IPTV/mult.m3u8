@@ -1,228 +1,485 @@
 #EXTM3U
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Малыш и Карлсон
+#EXTINF:0 group-title="Малыш и Карлсон" tvg-id="" tvg-logo="",Малыш и Карлсон S01E01
 https://mults.info/mp4/malysh_i_karlson.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Карлсон вернулся!
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Малыш и Карлсон S01E02
 https://mults.info/mp4/karlson_vernulsya.mp4
 
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Крокодил Гена
+#EXTINF:0 group-title="Крокодил Гена" tvg-id="" tvg-logo="",Крокодил Гена S01E01
 https://mults.info/mp4/krokodil_gena.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Чебурашка
+#EXTINF:0 group-title="Крокодил Гена" tvg-id="" tvg-logo="",Крокодил Гена S01E02
 https://mults.info/mp4/cheburashka.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Шапокляк
+#EXTINF:0 group-title="Крокодил Гена" tvg-id="" tvg-logo="",Крокодил Гена S01E03
 https://mults.info/mp4/shapoklyak.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Чебурашка идет в школу
+#EXTINF:0 group-title="Крокодил Гена" tvg-id="" tvg-logo="",Крокодил Гена S01E04
 https://mults.info/mp4/cheburashka_idet_v_shkolu.mp4
 
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Бременские музыканты
+#EXTINF:0 group-title="Бременские музыканты" tvg-id="" tvg-logo="",Бременские музыканты S01E01
 https://mults.info/mp4/bremenskie_muzykanty.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",По следам бременских музыкантов
+#EXTINF:0 group-title="Бременские музыканты" tvg-id="" tvg-logo="",Бременские музыканты S01E02
 https://mults.info/mp4/po_sledam_bremenskih_muzykantov.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://img3.labirint.ru/rc/42acd52689751bceca99d03470fbd309/594x918/books4/33787/cover.jpg?1280394613",Новые бременские
+#EXTINF:0 group-title="Бременские музыканты" tvg-id="" tvg-logo="",Бременские музыканты S01E03
 https://mults.info/mp4/novye_bremenskie.mp4
 
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Трое из Простоквашино
+#EXTINF:0 group-title="Простоквашино" tvg-id="" tvg-logo="",Трое из Простоквашино S01E01
 https://mults.info/mp4/troe_iz_prostokvashino.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Каникулы в Простоквашино
+#EXTINF:0 group-title="Простоквашино" tvg-id="" tvg-logo="",Трое из Простоквашино S01E02
 https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Зима в Простоквашино
+#EXTINF:0 group-title="Простоквашино" tvg-id="" tvg-logo="",Трое из Простоквашино S01E03
 https://mults.info/mp4/zima_v_prostokvashino.mp4
 
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Возвращение блудного попугая 1
+#EXTINF:0 group-title="Возвращение блудного попугая" tvg-id="" tvg-logo="",Возвращение блудного попугая S01E01
 https://mults.info/mp4/vozvr_bl_popugaya_1.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Возвращение блудного попугая 2
+#EXTINF:0 group-title="Возвращение блудного попугая" tvg-id="" tvg-logo="",Возвращение блудного попугая S01E02
 https://mults.info/mp4/vozvr_bl_popugaya_2.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Возвращение блудного попугая 3
+#EXTINF:0 group-title="Возвращение блудного попугая" tvg-id="" tvg-logo="",Возвращение блудного попугая S01E03
 https://mults.info/mp4/vozvr_bl_popugaya_3.mp4
 
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Винни-Пух
+#EXTINF:0 group-title="Винни-Пух" tvg-id="" tvg-logo="",Винни-Пух S01E01
 https://mults.info/mp4/winni_pooh.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Винни-Пух идет в гости
+#EXTINF:0 group-title="Винни-Пух" tvg-id="" tvg-logo="",Винни-Пух S01E02
 https://mults.info/mp4/winni_pooh_idet_v_gosti.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Винни-Пух и день забот
+#EXTINF:0 group-title="Винни-Пух" tvg-id="" tvg-logo="",Винни-Пух S01E03
 https://mults.info/mp4/winni_pooh_i_den_zabot.mp4
 
 
 
-
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E01
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E01
 https://mults.info/mp4/nu_pogodi_01.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E02
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E02
 https://mults.info/mp4/nu_pogodi_02.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E03
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E03
 https://mults.info/mp4/nu_pogodi_03.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E04
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E04
 https://mults.info/mp4/nu_pogodi_04.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E05
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E05
 https://mults.info/mp4/nu_pogodi_05.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E06
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E06
 https://mults.info/mp4/nu_pogodi_06.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E07
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E07
 https://mults.info/mp4/nu_pogodi_07.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E08
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E08
 https://mults.info/mp4/nu_pogodi_08.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E09
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E09
 https://mults.info/mp4/nu_pogodi_09.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E10
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E10
 https://mults.info/mp4/nu_pogodi_10.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E11
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E11
 https://mults.info/mp4/nu_pogodi_11.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E12
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E12
 https://mults.info/mp4/nu_pogodi_12.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E13
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E13
 https://mults.info/mp4/nu_pogodi_13.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E14
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E14
 https://mults.info/mp4/nu_pogodi_14.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E15
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E15
 https://mults.info/mp4/nu_pogodi_15.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E16
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E16
 https://mults.info/mp4/nu_pogodi_16.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E17
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E17
 https://mults.info/mp4/nu_pogodi_17.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E18
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E18
 https://mults.info/mp4/nu_pogodi_18.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E19
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E19
 https://mults.info/mp4/nu_pogodi_19.mp4
 
-#EXTINF:0 group-title="Мультсериалы" tvg-id="" tvg-logo="",Ну Погоди! S01E20
+#EXTINF:0 group-title="Ну Погоди!" tvg-id="Ну Погоди!" tvg-logo="",Ну Погоди! S01E20
 https://mults.info/mp4/nu_pogodi_20.mp4
 
 
 
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E01
+https://mults.info/mp4/leopold_mest_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E02
+https://mults.info/mp4/leopold_i_zolotaya_rybka.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E03
+https://mults.info/mp4/leopold_klad_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E04
+https://mults.info/mp4/leopold_televizor_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E05
+https://mults.info/mp4/leopold_progulka_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E06
+https://mults.info/mp4/leopold_den_rozhdenia_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E07
+https://mults.info/mp4/leopold_leto_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E08
+https://mults.info/mp4/leopold_interview.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E09
+https://mults.info/mp4/leopold_kot_leopold_vo_sne_i_nayavu.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E10
+https://mults.info/mp4/leopold_poliklinika_kota_leopolda.mp4
+
+#EXTINF:0 group-title="Кот Леопольд" tvg-id="Кот Леопольд" tvg-logo="",Кот Леопольд S01E11
+https://mults.info/mp4/leopold_avtomobil_kota_leopolda.mp4
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Приключения Буратино
-https://mults.info/mp4/prikluchenija_buratino.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E01
+https://mults.info/mp4/38_popugaev.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E02
+https://mults.info/mp4/38_babushka_udava.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E03
+https://mults.info/mp4/38_kak_lechit_udava.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E04
+https://mults.info/mp4/38_kuda_idet_slonenok.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E05
+https://mults.info/mp4/38_privet_martyshke.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E06
+https://mults.info/mp4/38_a_vdrug_poluchitsya.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E07
+https://mults.info/mp4/38_zaraydka_dlya_hvosta.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E08
+https://mults.info/mp4/38_zavtra_budet_zavtra.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E09
+https://mults.info/mp4/38_velikoe_zakrytie.mp4
+
+#EXTINF:0 group-title="38 попугаев" tvg-id="" tvg-logo="",38 попугаев S01E10
+https://mults.info/mp4/38_nenaglyadnoe_posobie.mp4
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Трям! Здравствуйте!
-https://mults.info/mp4/tryam.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E01
+https://mults.info/mp4/neznajka_04_korotyshki.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E02
+https://mults.info/mp4/neznajka_08_muzykant.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E03
+https://mults.info/mp4/neznajki_10_hudognik.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E04
+https://mults.info/mp4/neznajki_10_poet.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E05
+https://mults.info/mp4/neznajka_07_za_rulem.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E06
+https://mults.info/mp4/neznajka_03_vozdushnyj_shar.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E07
+https://mults.info/mp4/neznajki_02_vozdushnoe_puteshestvie.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E08
+https://mults.info/mp4/neznajka_05_v_zelenom_gorode.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E09
+https://mults.info/mp4/neznajka_06_vstrechaetsya_s_druzyami.mp4
+
+#EXTINF:0 group-title="Приключения Незнайки и его друзей" tvg-id="" tvg-logo="",Приключения Незнайки и его друзей S01E10
+https://mults.info/mp4/neznajki_01_vozvrashenie.mp4
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Каникулы Бонифация
-https://mults.info/mp4/kanikuli_bonifatsia.mp4
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E01
+https://mults.info/mp4//karusel_1.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E02
+https://mults.info/mp4//karusel_2.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E03
+https://mults.info/mp4//karusel_3.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E04
+https://mults.info/mp4//karusel_4.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E05
+https://mults.info/mp4//karusel_5.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E06
+https://mults.info/mp4//karusel_6.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E07
+https://mults.info/mp4//karusel_7.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E08
+https://mults.info/mp4//karusel_8.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E09
+https://mults.info/mp4//karusel_9.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E10
+https://mults.info/mp4//karusel_10.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E11
+https://mults.info/mp4//karusel_11.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E12
+https://mults.info/mp4//karusel_12.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E13
+https://mults.info/mp4//karusel_13.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E14
+https://mults.info/mp4//karusel_14.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E15
+https://mults.info/mp4//karusel_15.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E16
+https://mults.info/mp4//karusel_16.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E17
+https://mults.info/mp4//karusel_17.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E18
+https://mults.info/mp4//karusel_18.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E19
+https://mults.info/mp4//karusel_19.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E20
+https://mults.info/mp4//karusel_20.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E21
+https://mults.info/mp4//karusel_21.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E22
+https://mults.info/mp4//karusel_22.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E23
+https://mults.info/mp4//karusel_23.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E24
+https://mults.info/mp4//karusel_24.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E25
+https://mults.info/mp4//karusel_25.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E26
+https://mults.info/mp4//karusel_26.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E27
+https://mults.info/mp4//karusel_27.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E28
+https://mults.info/mp4//karusel_28.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E29
+https://mults.info/mp4//karusel_29.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E30
+https://mults.info/mp4//karusel_30.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E31
+https://mults.info/mp4//karusel_31.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E32
+https://mults.info/mp4//karusel_32.mp4
+
+#EXTINF:0 group-title="Веселая карусель" tvg-id="" tvg-logo="",Веселая карусель S01E33
+https://mults.info/mp4//karusel_33.mp4
+
+
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/1-14.jpg",Доктор Айболит S01E01
+https://mults.info/mp4/aibolit_i_ego_zveri.mp4
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/2-14.jpg",Доктор Айболит S01E02
+https://mults.info/mp4/aibolit_barmalej_i_morskie_piraty.mp4
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/3-7.jpg",Доктор Айболит S01E03
+https://mults.info/mp4/aibolit_varvara_zlaya_sestra_aibolita.mp4
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/4-4.jpg",Доктор Айболит S01E04
+https://mults.info/mp4/aibolit_kovarnyj_plan_barmaleya.mp4
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/5-3.jpg",Доктор Айболит S01E05
+https://mults.info/mp4/aibolit_speshit_na_pomosh.mp4
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/7-3.jpg",Доктор Айболит S01E06
+https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
+
+#EXTINF:0 group-title="Доктор Айболит" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/8-3.jpg",Доктор Айболит S01E07
+https://mults.info/mp4/aibolit_spasibo_doktor.mp4
+
+
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",По дороге с облаками S01E01
+https://mults.info/mp4/tigrenok1.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",По дороге с облаками S01E02
+https://mults.info/mp4/tigrenok2.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",По дороге с облаками S01E03
+https://mults.info/mp4/tigrenok3.mp4
+
+
+
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E01
+https://mults.info/mp4/kak_kazaki_kulesh_varili.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E02
+https://mults.info/mp4/kak_kazaki_v_futbol_igrali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E03
+https://mults.info/mp4/kak_kazaki_nevest_vyruchali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E04
+https://mults.info/mp4/kak_kazaki_sol_pokupali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E05
+https://mults.info/mp4/kak_kazaki_olimpijcami_stali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E06
+https://mults.info/mp4/kak_kazaki_mushketeram_pomogali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E07
+https://mults.info/mp4/kak_kazaki_na_svadbe_gulyali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E08
+https://mults.info/mp4/kak_kazaki_inoplanetyan_vstrechali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Казаки S01E09
+https://mults.info/mp4/kak_kazaki_v_hokkej_igrali.mp4
+
+
+
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/girlyanda_iz_malyshei.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/ostorozhno_obezyanki.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/obezyanki_i_grabiteli.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/kak_obezyanki_obedali.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/obezyanki_vpered.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/obezyanki_v_opere.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Обезьянки S01E0
+https://mults.info/mp4/obezyanki_skoraya_pomosh.mp4
 
 
 
 
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Волк и теленок
-https://mults.info/mp4/volk_i_telenok.mp4
+
+
 
 
 
 #EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Крошка Енот
 https://mults.info/mp4/kroshka_enot.mp4
 
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Трям! Здравствуйте!
+https://mults.info/mp4/tryam.mp4
 
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",По дороге с облаками
-https://mults.info/mp4/tigrenok1.mp4
-
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://static.onlinemultfilmy.ru/img/podarok-dlya-slona.jpg",Подарок для слона
-https://mults.info/mp4/tigrenok2.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="https://kadikama.ru/uploads/posts/2018-01/1515810295_klad-multfilm-1985.jpg" tvg-logo="",Клад
-https://mults.info/mp4/tigrenok3.mp4
-
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Умка
-https://mults.info/mp4/umka.mp4
-
-
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Как Львёнок и черепаха пели песню
+https://mults.info/mp4/kak_lvenok_i_cherepaha_peli_pesnyu.mp4
 
 #EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0gv6XDLzHDzzCQCzkc_-OpYvwUm7WdaT1og&usqp=CAU",Мама для мамонтенка
 https://mults.info/mp4/mama_dla_mamontenka.mp4
 
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Опять Двойка
+https://mults.info/mp4/opjat_dvoyka.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Каникулы Бонифация
+https://mults.info/mp4/kanikuli_bonifatsia.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Волк и теленок
+https://mults.info/mp4/volk_i_telenok.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Умка
+https://mults.info/mp4/umka.mp4
 
 #EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://thumbs.dfs.ivi.ru/storage28/contents/8/9/bd412ad8c4467ecdfba2ad33b67d6b.jpg",Дед Мороз и лето
 https://mults.info/mp4/ded_moroz_i_leto.mp4
 
-
 #EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://s1.livelib.ru/boocover/1000172491/200/b68b/Sergej_Kozlov__Ezhik_v_tumane_sbornik.jpg",Ежик в тумане
 https://mults.info/mp4/ezhik_v_tumane.mp4
 
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Приключения Буратино
+https://mults.info/mp4/prikluchenija_buratino.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Мойдодыр
+https://mults.info/mp4/mojdodyr.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Вовка в тридевятом царстве
+https://mults.info/mp4/vovka_v_tridev_tsarstve.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Пес в сапогах
+https://mults.info/mp4/pes_v_sapogah.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Сказка о царе Салтане
+https://mults.info/mp4/skazka_o_tsare_saltane.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Маугли
+https://mults.info/mp4/maugli.mp4
+
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Тайна третьей планеты
+https://mults.info/mp4/taina_tretey_planety.mp4
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/1-14.jpg",Айболит и его звери
-https://mults.info/mp4/aibolit_i_ego_zveri.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/2-14.jpg",Бармалей и морские пираты
-https://mults.info/mp4/aibolit_barmalej_i_morskie_piraty.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/3-7.jpg",Варвара - злая сестра Айболита
-https://mults.info/mp4/aibolit_varvara_zlaya_sestra_aibolita.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/4-4.jpg",Коварный план Бармалея
-https://mults.info/mp4/aibolit_kovarnyj_plan_barmaleya.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/5-3.jpg",Айболит спешит на помощь
-https://mults.info/mp4/aibolit_speshit_na_pomosh.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/7-3.jpg",Крокодил и солнце
-https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
-
-#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="https://topspiski.com/wp-content/uploads/2020/02/8-3.jpg",Спасибо, доктор!
-https://mults.info/mp4/aibolit_spasibo_doktor.mp4
-
-
+#EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Про бегемота который боялся прививок
+https://mults.info/mp4/pro_begemota_kotoryj_boyalsya_privivok.mp4
 
 
 #EXTINF:0 group-title="Мультфильмы" tvg-id="" tvg-logo="",Приключения капитана Врунгеля
