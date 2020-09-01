@@ -374,7 +374,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2415/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые"  tvg-id="659" tvg-logo="https://goo.gl/K2eK6A",FOX
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/550/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="02 HD Каналы" tvg-id="1031" tvg-logo="https://goo.gl/aqedSB",FOX HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="1031" tvg-logo="https://goo.gl/aqedSB",FOX HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/219/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные"  tvg-id="615" tvg-logo="https://goo.gl/ZrdZNZ",FOX Life
@@ -456,7 +456,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/732/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2506" tvg-logo="https://goo.gl/KnFsGZ",КИНО ТВ HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2097/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2432" tvg-logo="https://shorturl.at/yFK17",Живая Планета
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2432" tvg-logo="https://cdn-st1.rtr-vesti.ru/p/xw_1015265.jpg",Живая Планета
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2101/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2529" tvg-logo="https://motorsport.tv/noimage.png",Моторспорт ТВ
@@ -693,67 +693,67 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/1001/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="1681" tvg-logo="https://goo.gl/BLHmu2",Охотник и рыболов HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/917/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/30/Арсенал.png",Арсенал
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://telesputnik.ru/upload/iblock/7e8/novyy_telekanal_arsenla_s_1_yanvarya_nachnet_veshchanie_na_platforme_trikolora.jpg",Арсенал
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/921/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/30/Арсенал.png",Арсенал HD
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://telesputnik.ru/upload/iblock/7e8/novyy_telekanal_arsenla_s_1_yanvarya_nachnet_veshchanie_na_platforme_trikolora.jpg",Арсенал HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5044/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2431" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/15/Зоо_ТВ.png",Зоо ТВ
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2431" tvg-logo="https://tricolor-tv-saratov.ru/wp-content/uploads/2016/12/zoo-tv.jpg",Зоо ТВ
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2100/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2438" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/23/Капитан_Фантастика.png",Капитан Фантастика
+#EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2438" tvg-logo="https://avk-wellcom.ru/assets/smotr-pics/55/capitan_fantastica.png",Капитан Фантастика
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2098/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2424" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/17/Телепутешествия_логотип_100.png",Телепутешествия
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2424" tvg-logo="https://ict-online.ru/files/lid_image131426.jpg",Телепутешествия
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2051/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2311" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/18/Приключения_HD.png",Приключения HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2311" tvg-logo="https://tricolortvmag.ru/upload/iblock/b22/880x400_hd_i_g_i_.png",Приключения HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/920/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2463" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/14/Загородный_логотип_150.png",Загородный
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2463" tvg-logo="https://tv-kanali.online/wp-content/uploads/2019/03/zagorodnyj.jpg",Загородный
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2099/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2437" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/24/Рыжий.png",Рыжий
+#EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2437" tvg-logo="https://www.rabotnikitv.com/wp-content/uploads/2016/06/snimok_ekrana_2015-05-06_v_16.24.32-1030x580.png",Рыжий
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2052/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2498" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/20/В_мире_животных.png",В мире животных HD
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2498" tvg-logo="https://tuchkatv.org/uploads/posts/2018-04/1524140287_mire-zhivotnyh-hd.png",В мире животных HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2089/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2310" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/21/Эврика.png",Эврика HD
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2310" tvg-logo="https://tuchkatv.org/uploads/posts/2018-04/1524139332_eureka-hd.png",Эврика HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/908/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2800" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/25/InsightTV.png",Insight UHD 4K
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5000/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2834" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/31/Кинопоказ.png",Кинопоказ HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2834" tvg-logo="https://www.cableman.ru/sites/default/files/kinopokaz_640h360.jpg",Кинопоказ HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2439/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2831" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/32/Наш_Кинопоказ.png",Наш Кинопоказ HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2831" tvg-logo="https://www.cableman.ru/sites/default/files/nash_kinopokaz_640h360.jpg",Наш Кинопоказ HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2434/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2832" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/33/Блокбастер.png",Блокбастер HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2832" tvg-logo="https://www.cableman.ru/sites/default/files/blokbaster_640h360.jpg",Блокбастер HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2436/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2835" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/34/Наше_мужское.png",Наше Мужское HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2835" tvg-logo="https://www.1tvch.ru/uploads/channel/minor_image/34/мужское-2.png",Наше Мужское HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2440/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2829" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/35/Про_Любовь.png",Про Любовь HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2829" tvg-logo="https://lh3.googleusercontent.com/proxy/mfr0CadUBXeuy9Cpd_zNofMGnr5ke_eQ0Viu0iyReoEE2jjOZjGkw63iX1DLCO7StNszr2zldgZK-a4sCHsj50Yj5DxemnuLOwVfjl8",Про Любовь HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2430/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2833" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/36/Хит.png",Хит HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2833" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/5/55/Хит.jpg/revision/latest/scale-to-width-down/340?cb=20200213052904&path-prefix=ru",Хит HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2438/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2836" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/37/Камеди2_150х134.png",Камеди HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2836" tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/0/02/Камеди.jpg/revision/latest/scale-to-width-down/340?cb=20200213052520&path-prefix=ru",Камеди HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2441/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2426" tvg-logo="https://www.1tvch.ru/uploads/channel/logo/39/Тайна.png", Тайна
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2426" tvg-logo="https://tayna.tv/wp-content/uploads/2020/08/1224.jpg", Тайна
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2059/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2425" tvg-logo="",Тонус
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2425" tvg-logo="https://nukussat.clan.su/_ph/8/2/435107279.png",Тонус
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2054/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2425" tvg-logo="",Тонус
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2425" tvg-logo="https://nukussat.clan.su/_ph/8/2/435107279.png",Тонус
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2054/index.m3u8
 
 
@@ -1228,10 +1228,10 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/742/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="309" tvg-logo="https://goo.gl/VkSkfh",TV XXI
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/525/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="02 HD Каналы" tvg-id="2139" tvg-logo="https://goo.gl/8gwa4h",Теледом
+#EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные" tvg-id="2139" tvg-logo="https://goo.gl/8gwa4h",Теледом
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/954/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="02 HD Каналы" tvg-id="2142" tvg-logo="https://goo.gl/6XP3Xs",Настоящее время
+#EXTINF:0 tvg-rec="3"  group-title="09 Другие" tvg-id="2142" tvg-logo="https://goo.gl/6XP3Xs",Настоящее время
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/986/index.m3u8
 
 
