@@ -1,0 +1,153 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2254" tvg-logo="https://shorturl.at/sDJQ4" tvg-rec="0",CBS2 (CH2 WCBS)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/903/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2258" tvg-logo="https://shorturl.at/wzEL6" tvg-rec="0",NBC4 (CH4 WNBC)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1081/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2328" tvg-logo="https://shorturl.at/fhB01" tvg-rec="0",FOX5 (CH5 WNYW)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1086/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2327" tvg-logo="https://shorturl.at/eltx5" tvg-rec="0",ABC7 (CH7 WABC)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1087/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2329" tvg-logo="https://shorturl.at/gpqMX" tvg-rec="0",my9 (CH9 WWOR) 
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1088/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2333" tvg-logo="https://shorturl.at/CEGI2" tvg-rec="0",PIX11 (CH11 WPIX)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1090/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2334" tvg-logo="https://shorturl.at/rWXY2" tvg-rec="0",THIRTEEN (CH13 WNET)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1093/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2335" tvg-logo="https://shorturl.at/acxyG" tvg-rec="0",WLIW21 (CH21 WLIW)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1094/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2253" tvg-logo="https://shorturl.at/fEP46" tvg-rec="0",NYC Life (CH25 WNYE)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/902/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2252" tvg-logo="https://shorturl.at/bcmsT" tvg-rec="0",Ion Television (CH31 WPXN)
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/901/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2330" tvg-logo="https://shorturl.at/buM09" tvg-rec="0",Localish
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1089/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2339" tvg-logo="https://shorturl.at/aflJ3" tvg-rec="0",WMBC-TV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1098/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2337" tvg-logo="https://shorturl.at/dlAH5" tvg-rec="0",MeTV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1096/index.m3u8
+
+#EXTINF:0 group-title="01 Local Channels" tvg-id="2336" tvg-logo="https://shorturl.at/crDE2" tvg-rec="0",NJTV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1095/index.m3u8
+
+
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2376" tvg-logo="https://shorturl.at/knCT1" tvg-rec="0",AMC
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1083/index.m3u8
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2343" tvg-logo="https://shorturl.at/eKS37" tvg-rec="0",TNT
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1102/index.m3u8
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2344" tvg-logo="https://shorturl.at/cJNRW" tvg-rec="0",TBS
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1103/index.m3u8
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2332" tvg-logo="https://shorturl.at/rGM45" tvg-rec="0",BBC America
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1092/index.m3u8
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2312" tvg-logo="https://shorturl.at/opzMZ" tvg-rec="0",MAVTV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1074/index.m3u8
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2331" tvg-logo="https://shorturl.at/noqtC" tvg-rec="0",Motor Trend
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1091/index.m3u8
+
+#EXTINF:0 group-title="02 Basic Cable" tvg-id="2338" tvg-logo="https://shorturl.at/akBIN" tvg-rec="0",Shop LC
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1097/index.m3u8
+
+
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2342" tvg-logo="https://shorturl.at/hqRU0" tvg-rec="0",USA
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1101/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2375" tvg-logo="https://shorturl.at/bfmZ3" tvg-rec="0",Disney XD
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1082/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2374" tvg-logo="https://shorturl.at/bdkEL" tvg-rec="0",Hallmark Movies & Mysteries
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1075/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2345" tvg-logo="https://shorturl.at/eFQ08" tvg-rec="0",TLC
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1105/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2057" tvg-logo="https://shorturl.at/ovHO5" tvg-rec="0",Food Network
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1107/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2377" tvg-logo="https://shorturl.at/fkAEX" tvg-rec="0",HGTV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1084/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2378" tvg-logo="https://shorturl.at/nIOQ5" tvg-rec="0",TruTV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1085/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2346" tvg-logo="https://shorturl.at/ABNU1" tvg-rec="0",FXM
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1106/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="2347" tvg-logo="https://shorturl.at/aixLY" tvg-rec="0",A&E
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1108/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="CNBC" tvg-logo="https://goo.gl/z4jaQ6",CNBC
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/962/index.m3u8
+
+#EXTINF:0 group-title="03 Pay TV" tvg-id="Bloomberg HT" tvg-logo="https://goo.gl/C9eJbn",Bloomberg
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/540/index.m3u8
+
+
+
+#EXTINF:0 group-title="04 International" tvg-id="CNN International Europe" tvg-logo="https://goo.gl/9FNdLS",CNN International Europe
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/842/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="Euronews" tvg-logo="https://goo.gl/Qo6MPH",Euronews
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/969/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="RT News" tvg-logo="https://goo.gl/jCoZbz",Russia Today
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/840/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="FRANCE 24 En" tvg-logo="https://goo.gl/Rvo7a9",France 24 Eng
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/947/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="Deutsche Welle DE" tvg-logo="https://goo.gl/YqvicP",Deutsche Welle DE
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1021/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="NHK World TV" tvg-logo="https://goo.gl/3DfMMU",NHK World TV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/729/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="CGTN" tvg-logo="https://goo.gl/nxzTxj",CGTN
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/830/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="Al Jazeera" tvg-logo="https://goo.gl/NXWCit",Al Jazeera
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/960/index.m3u8
+
+#EXTINF:0 group-title="04 International" tvg-id="English Club TV" tvg-logo="https://goo.gl/CxQ4nw",English Club TV
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/993/index.m3u8
+
+
+
+#EXTINF:0 group-title="05 Spanish" tvg-id="2340" tvg-logo="https://shorturl.at/hmuxN" tvg-rec="0",Univision
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1099/index.m3u8
+
+#EXTINF:0 group-title="05 Spanish" tvg-id="2257" tvg-logo="https://shorturl.at/qyBTV" tvg-rec="0",Telemundo
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1080/index.m3u8
+
+#EXTINF:0 group-title="05 Spanish" tvg-id="2341" tvg-logo="https://shorturl.at/lqsJ4" tvg-rec="0",UniMÁS
+http://a473c68b.ottv.info/iptv/53NV4PQLUV22V8/1100/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
