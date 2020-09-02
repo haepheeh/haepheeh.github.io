@@ -282,7 +282,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/101/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="125" tvg-logo="https://goo.gl/P8RZYM",TV1000 Action
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/131/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2274" tvg-logo="https://s4.ollcdn.net/i/1b/58/5f/1b585f537x295-world-kino.jpg",TV1000 World Kino
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2274" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/tv100_world_kino.jpg",TV1000 World Kino
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/1065/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="1013" tvg-logo="https://goo.gl/VqysBZ",ViP Premiere
@@ -303,7 +303,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/200/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2823" tvg-logo="https://goo.gl/7dD32v",ViP Comedy HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5080/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2838" tvg-logo="https://telesputnik.ru/upload/iblock/3eb/gk_viasat_zapustila_novyy_telekanal_vip_serial.jpg",ViP Serial HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2838" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/vip_serial.jpg",ViP Serial HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2443/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="521" tvg-logo="https://goo.gl/eJuMSe",Viasat Explore
@@ -380,10 +380,10 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/219/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные"  tvg-id="615" tvg-logo="https://goo.gl/ZrdZNZ",FOX Life
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/553/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="07 Детские"  tvg-id="2436" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Babytv.png",Baby TV
+#EXTINF:0 tvg-rec="3"  group-title="07 Детские"  tvg-id="2436" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/baby_tv.jpg",Baby TV
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2084/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="07 Детские"  tvg-id="2436" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Babytv.png",Baby TV
+#EXTINF:0 tvg-rec="3"  group-title="07 Детские"  tvg-id="2436" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/baby_tv.jpg",Baby TV
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2084/index.m3u8
 
 
@@ -456,7 +456,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/732/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2506" tvg-logo="https://goo.gl/KnFsGZ",КИНО ТВ HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2097/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2432" tvg-logo="https://cdn-st1.rtr-vesti.ru/p/xw_1015265.jpg",Живая Планета
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2432" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/zhivaya_planeta.jpg",Живая Планета
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2101/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2529" tvg-logo="https://motorsport.tv/noimage.png",Моторспорт ТВ
@@ -468,10 +468,10 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2146/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2727" tvg-logo="https://motorsport.tv/noimage.png",Моторспорт ТВ FHD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2405/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2754" tvg-logo="",Cinéma
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2754" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/cinema.jpg",Cinema
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5051/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2506" tvg-logo="",КИНО ТВ HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2506" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/kino_tv.jpg",КИНО ТВ HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2097/index.m3u8
 
 
@@ -574,10 +574,10 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2403/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="1679" tvg-logo="https://goo.gl/jBTjHZ",Конный Мир HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/214/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2782" tvg-logo="https://telesputnik.ru/upload/iblock/90d/telekanal_futbol_smenil_logotip.jpg",Телеканал Футбол
+#EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2782" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/football.jpg",Телеканал Футбол
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5050/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2782" tvg-logo="https://telesputnik.ru/upload/iblock/90d/telekanal_futbol_smenil_logotip.jpg",Телеканал Футбол
+#EXTINF:0 tvg-rec="3"  group-title="08 Спортивные" tvg-id="2782" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/football.jpg",Телеканал Футбол
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5050/index.m3u8
 
 
@@ -593,7 +593,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/744/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные" tvg-id="175" tvg-logo="https://goo.gl/dgv1Dk",НТВ Стиль
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/745/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные" tvg-id="2041" tvg-logo="https://img2.ntv.ru/home/news/20181024/channels_hit.png",НТВ Хит
+#EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные" tvg-id="2041" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/ntv_hit.jpg",НТВ Хит
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/741/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="06 Музыкальные" tvg-id="680" tvg-logo="https://goo.gl/5uNNGs",ТНТ Music
@@ -610,7 +610,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/710/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="06 Музыкальные" tvg-id="681" tvg-logo="https://goo.gl/3Hm5iS",Europa Plus TV
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/115/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="06 Музыкальные" tvg-id="2408" tvg-logo="https://telesputnik.ru/upload/iblock/b4d/red_media_obnovil_telekanal_lya_minor_tv.jpg",Ля Минор
+#EXTINF:0 tvg-rec="3"  group-title="06 Музыкальные" tvg-id="2408" tvg-logo=""https://www.gyolchanyan.com/iptv/logos/rus/lya_minor.jpg",Ля Минор
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2043/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные" tvg-id="165" tvg-logo="https://goo.gl/2RQty7",Жара
@@ -625,13 +625,13 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/152/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="415" tvg-logo="https://goo.gl/iejSvw",HD Life
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/226/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2423" tvg-logo="https://telesputnik.ru/upload/iblock/4b5/telekanal_365_dney_tv_obnovilsya.jpg",365 дней
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2423" tvg-logo=""https://www.gyolchanyan.com/iptv/logos/rus/365.jpg",365 дней
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2040/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="03 Развлекательные" tvg-id="153" tvg-logo="https://goo.gl/DmuHDJ",Авто Плюс
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/151/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2239" tvg-logo="https://i.ytimg.com/vi/VogefWR414E/maxresdefault.jpg",Малыш
+#EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2239" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/malysh.jpg",Малыш
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/1041/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="КИНОПРЕМЬЕРА" tvg-logo="https://goo.gl/Zgo9gV",КиноПремьера
@@ -661,7 +661,7 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/125/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="462" tvg-logo="https://goo.gl/JCSziU",КиноСвидание
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/728/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2493" tvg-logo="",Киноужас HD
+#EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="2493" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/kinouzhas.jpg",Киноужас HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2056/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="05 Фильмовые" tvg-id="485" tvg-logo="https://goo.gl/ocDGCK",Наше Новое Кино
@@ -693,13 +693,13 @@ http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/1001/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="1681" tvg-logo="https://goo.gl/BLHmu2",Охотник и рыболов HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/917/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://telesputnik.ru/upload/iblock/7e8/novyy_telekanal_arsenla_s_1_yanvarya_nachnet_veshchanie_na_platforme_trikolora.jpg",Арсенал
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/arsenal.jpg",Арсенал
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/921/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://telesputnik.ru/upload/iblock/7e8/novyy_telekanal_arsenla_s_1_yanvarya_nachnet_veshchanie_na_platforme_trikolora.jpg",Арсенал HD
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2768" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/arsenal.jpg",Арсенал HD
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/5044/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2431" tvg-logo="https://tricolor-tv-saratov.ru/wp-content/uploads/2016/12/zoo-tv.jpg",Зоо ТВ
+#EXTINF:0 tvg-rec="3"  group-title="04 Документальные" tvg-id="2431" tvg-logo="https://www.gyolchanyan.com/iptv/logos/rus/zoo_tv.jpg",Зоо ТВ
 http://a473c68b.ottrast.com/iptv/9FTUB8QWZEVX7R/2100/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="07 Детские" tvg-id="2438" tvg-logo="https://avk-wellcom.ru/assets/smotr-pics/55/capitan_fantastica.png",Капитан Фантастика
