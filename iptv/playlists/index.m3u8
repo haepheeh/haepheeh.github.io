@@ -1515,7 +1515,7 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1081/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="USA" tvg-id="2328" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox.jpg",FOX
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1086/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA" tvg-id="2327" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/ab7.jpg",ABC
+#EXTINF:0 tvg-rec="3"  group-title="USA" tvg-id="2327" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc.jpg",ABC
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1087/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="USA" tvg-id="2329" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/my9.jpg",My9 
@@ -1702,7 +1702,7 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1100/index.m3u8
 
 <!-- INTERNATIONAL -->
 
-#EXTINF:0 tvg-rec="3"  group-title="USA" tvg-id="2295" tvg-logo="https://www.freeetv.com/images/03_logo/RT_more_russian_federation.jpg",RT US Documentary
+#EXTINF:0 tvg-rec="3"  group-title="International" tvg-id="2295" tvg-logo="https://www.freeetv.com/images/03_logo/RT_more_russian_federation.jpg",RT US Documentary
 https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="International" tvg-id="2270" tvg-logo="https://goo.gl/9FNdLS",CNN International
@@ -1738,7 +1738,7 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2474/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="International" tvg-id="2269" tvg-logo="https://goo.gl/jCoZbz",RT News UK
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/840/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA" tvg-id="2269" tvg-logo="https://goo.gl/jCoZbz",RT America
+#EXTINF:0 tvg-rec="3"  group-title="International" tvg-id="2269" tvg-logo="https://goo.gl/jCoZbz",RT America
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="International" tvg-id="NHK World TV" tvg-logo="https://goo.gl/3DfMMU",NHK World TV
