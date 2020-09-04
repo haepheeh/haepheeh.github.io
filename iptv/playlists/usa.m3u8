@@ -1,248 +1,296 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/edem.xml.gz"
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2254" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbs.jpg",CBS (CBS2)
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2254" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbs.jpg",CBS (CBS2)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/903/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2258" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nbc.jpg",NBC (NBC4)
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2258" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nbc.jpg",NBC (NBC4)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1081/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2328" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox.jpg",FOX (FOX5)
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2328" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox.jpg",FOX (FOX5)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1086/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2327" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc.jpg",ABC (ABC7C)
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2327" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc.jpg",ABC (ABC7C)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1087/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2329" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/my9.jpg",My9 (MYNET) 
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2329" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/my9.jpg",My9 (MYNET) 
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1088/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2333" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cw.jpg",CW (PIX11)
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2333" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cw.jpg",CW (PIX11)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1090/index.m3u8
 
+#EXTINF:0 tvg-rec="3"  group-title="01 Local" tvg-id="2252" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/ion.jpg",ION
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/901/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2376" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/amc.jpg",AMC
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2376" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/amc.jpg",AMC
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1083/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2344" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tbs.jpg",TBS
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2344" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tbs.jpg",TBS
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1103/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2343" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tnt.jpg",TNT
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2343" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tnt.jpg",TNT
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1102/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2342" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/usa.jpg",USA
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2342" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/usa.jpg",USA
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1101/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2332" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/bbc_america.jpg",BBC America
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2332" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/bbc_america.jpg",BBC America
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1092/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2377" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/hgtv.jpg",HGTV
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2377" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/hgtv.jpg",HGTV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1084/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2378" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tru_tv.jpg",TruTV
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2378" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tru_tv.jpg",TruTV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1085/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA General" tvg-id="2347" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/a_e.jpg",A&E
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2347" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/a_e.jpg",A&E
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1108/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Kids" tvg-id="2240" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nickelodeon.jpg",Nickelodeon
+#EXTINF:0 tvg-rec="3" group-title="01 General" tvg-id="2240" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nickelodeon.jpg",Nickelodeon
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1069/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Kids" tvg-id="2375" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/disney_xd.jpg",Disney XD
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2375" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/disney_xd.jpg",Disney XD
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1082/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Documentary" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/discovery_channel.jpg",Discovery Channel
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/discovery_channel.jpg",Discovery Channel
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2487/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Documentary" tvg-id="2238" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/travel_channel.jpg",Travel Channel
+#EXTINF:0 tvg-rec="3" group-title="01 General" tvg-id="2238" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/travel_channel.jpg",Travel Channel
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1070/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Lifestyle" tvg-id="2345" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tlc.jpg",TLC
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2345" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tlc.jpg",TLC
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1105/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Lifestyle" tvg-id="2057" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/food_network.jpg",Food Network
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="2057" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/food_network.jpg",Food Network
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1107/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Lifestyle" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fine_iving.jpg",Fine Living
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2027/index.m3u8
+#EXTINF:0 tvg-rec="3"  group-title="01 General" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cw.jpg",Game Show
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=328caa5d-eed4-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn.jpg",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/msnbc.jpg",MSNBC
-https://ctl.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox_news.jpg",FOX News
-http://163.172.186.160:8081/N1e6/tv/foxnews/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc_news.jpg",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cnn.jpg",CNN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=4accc8ee-ed7c-11ea-a4ee-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn_ny.jpg",CBSN NY
-https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/pix11_news.jpg",PIX11 News
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/news12_brooklyn.jpg",News 12 Brooklyn
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbn_news.jpg",CBN News
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/newsmax.jpg",NewsMax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="2128" tvg-logo="https://goo.gl/z4jaQ6",CNBC
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/962/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="2613" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/bloomberg.jpg",Bloomberg
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="2270" tvg-logo="https://goo.gl/9FNdLS",CNN International
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/842/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="Euronews" tvg-logo="https://goo.gl/Qo6MPH",Euronews
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/969/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="828" tvg-logo="https://goo.gl/5TVy58",BBC World News
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/545/index.m3u8
-
-#EXTINF:0 tvg-rec="3" group-title="USA World News" tvg-id="" tvg-logo="",Sky News
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2475/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="FRANCE 24 En" tvg-logo="https://goo.gl/Rvo7a9",France 24
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/947/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="Deutsche Welle DE" tvg-logo="https://goo.gl/YqvicP",Deutsche Welle
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="2269" tvg-logo="https://goo.gl/jCoZbz",RT News
-https://rt-news-gd.secure2.footprint.net/1103.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="NHK World TV" tvg-logo="https://goo.gl/3DfMMU",NHK World
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/729/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="Al Jazeera" tvg-logo="https://goo.gl/NXWCit",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA World News" tvg-id="CGTN" tvg-logo="https://goo.gl/nxzTxj",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Movies" tvg-id="2374" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/hmm.jpg",Hallmark Movies & Mysteries
+#EXTINF:0 tvg-rec="3"  group-title="Movies" tvg-id="2374" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/hmm.jpg",Hallmark Movies & Mysteries
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1075/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Movies" tvg-id="2346" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fxm.jpg",FXM
+#EXTINF:0 tvg-rec="3"  group-title="Movies" tvg-id="2346" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fxm.jpg",FXM
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1106/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Movies" tvg-id="2988" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/more_max.jpg",MoreMax
+#EXTINF:0 tvg-rec="3" group-title="Movies" tvg-id="2988" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/more_max.jpg",MoreMax
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6152/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Movies" tvg-id="2985" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/action_max.jpg",ActionMax
+#EXTINF:0 tvg-rec="3" group-title="Movies" tvg-id="2985" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/action_max.jpg",ActionMax
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6156/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Movies" tvg-id="2986" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/movie_max.jpg",MovieMax
+#EXTINF:0 tvg-rec="3" group-title="Movies" tvg-id="2986" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/movie_max.jpg",MovieMax
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6155/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Movies" tvg-id="2987" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/outer_max.jpg",OuterMax
+#EXTINF:0 tvg-rec="3" group-title="Movies" tvg-id="2987" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/outer_max.jpg",OuterMax
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6154/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Movies" tvg-id="3089" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/thriller_max.jpg",ThrillerMax
+#EXTINF:0 tvg-rec="3" group-title="Movies" tvg-id="3089" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/thriller_max.jpg",ThrillerMax
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6153/index.m3u8
 
 
-#EXTINF:0 tvg-rec="3" group-title="USA Sports" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tennis_channel.jpg",Tennis Channel
+
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/live_music_replay.jpg.jpg",Live Music Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="2331" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/mtv_block_party.jpg",MTV Block Party
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="575" tvg-logo="https://goo.gl/Ljo4tT",Mezzo
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/707/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="801" tvg-logo="https://goo.gl/DgteTM",Mezzo Live HD
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/217/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="382" tvg-logo="https://goo.gl/7EgUjG",MTV Live HD
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/221/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="2235" tvg-logo="https://shorturl.at/pZ178", MTV Rocks
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1038/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="1723" tvg-logo="https://goo.gl/PgP14y",MTV Hits
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/153/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="165" tvg-logo="https://goo.gl/D5D3jy",MTV Dance
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/558/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="491" tvg-logo="https://goo.gl/oS36vr",VH1 Europe
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/536/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="156" tvg-logo="https://goo.gl/mvG7uK",VH1 Classic
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/724/index.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="2861" tvg-logo="https://png.pngitem.com/pimgs/s/375-3750214_international-tv-skyselect-sky-1-hd-png-download.png",Sky Select
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2474/index.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="2489" tvg-logo="",Stingray CMusic
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2028/index.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="https://english-club.tv/wp-content/uploads/2015/09/slide_1-720x420.jpg" tvg-logo="2237",Classical Harmony
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1037/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://stvron.com/canale/512/rock-tv.png",Rock TV (Romania)
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_8_1552504848_poster.png",Retro Music Television (Czech Republic)
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="" tvg-logo="https://3.bp.blogspot.com/-PTa2TNmlgiY/XZ9QZMZ84mI/AAAAAAAACHk/gZcM0CkE5TMC0aMDFk69_oSmNb9fsck0ACPcBGAYYCw/s320/Screenshot_2019-10-10-12-36-15.png",Retro Plus (Peru)
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="" tvg-logo="https://3.bp.blogspot.com/-Rv1gvOzraOc/XRZF4IzXeII/AAAAAAAABOY/iubeLKWC3Cc--BWvM_B_XZ73FG2EH2ynQCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-38-01.png",NRJ HITS (Belgium)
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image68199662958.jpg",DJING (France)
+https://www.djing.com/tv/live.m3u8
+
+
+#EXTINF:0 tvg-rec="3"  group-title="News (Local)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn_ny.jpg",CBSN NY
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (Local)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/msnbc.jpg",MSNBC
+https://ctl.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (Local)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/pix11_news.jpg",PIX11 News
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (Local)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/news12_brooklyn.jpg",News 12 Brooklyn
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
+
+
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn.jpg",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nbc_news.jpg",NBC News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox_news.jpg",FOX News
+http://163.172.186.160:8081/N1e6/tv/foxnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc_news.jpg",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cnn.jpg",CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=4accc8ee-ed7c-11ea-a4ee-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbn_news.jpg",CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (USA)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/newsmax.jpg",NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="2128" tvg-logo="https://goo.gl/z4jaQ6",CNBC
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/962/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="2613" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/bloomberg.jpg",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="2270" tvg-logo="https://goo.gl/9FNdLS",CNN International
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/842/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="Euronews" tvg-logo="https://goo.gl/Qo6MPH",Euronews
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/969/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="828" tvg-logo="https://goo.gl/5TVy58",BBC World News
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/545/index.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="News (World)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/sky_news.jpg",Sky News
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2475/index.m3u8
+
+#EXTINF:0 tvg-rec="3" group-title="News (World)" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/sky_news.jpg",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="FRANCE 24 En" tvg-logo="https://goo.gl/Rvo7a9",France 24
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/947/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="Deutsche Welle DE" tvg-logo="https://goo.gl/YqvicP",Deutsche Welle
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="2269" tvg-logo="https://goo.gl/jCoZbz",RT News
+https://rt-news-gd.secure2.footprint.net/1103.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="NHK World TV" tvg-logo="https://goo.gl/3DfMMU",NHK World
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/729/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="CGTN" tvg-logo="https://goo.gl/nxzTxj",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News (World)" tvg-id="Al Jazeera" tvg-logo="https://goo.gl/NXWCit",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbs_sports_hq.jpg",SBS Sports HQ
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox_sports.jpg",Fox Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nfl_channel.jpg",NFL Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3" group-title="Sports" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/tennis_channel.jpg",Tennis Channel
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6096/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Sports" tvg-id="2331" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/motortrend.jpg",Motor Trend
+#EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="2331" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/motortrend.jpg",Motor Trend
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1091/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Sports" tvg-id="2312" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/mav_tv.jpg",MAVTV
+#EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="2312" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/mav_tv.jpg",MAVTV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1074/index.m3u8
 
 
-
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2334" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/13.jpg",Thirteen
+#EXTINF:0 tvg-rec="3"  group-title="NYC Local" tvg-id="2334" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/13.jpg",Thirteen
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1093/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2335" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wliw21.jpg",WLIW21 (CH21 WLIW)
+#EXTINF:0 tvg-rec="3"  group-title="NYC Local" tvg-id="2335" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wliw21.jpg",WLIW21 (CH21 WLIW)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1094/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2253" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nyc_life.jpg",NYC Life)
+#EXTINF:0 tvg-rec="3"  group-title="NYC Local" tvg-id="2253" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nyc_life.jpg",NYC Life)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/902/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2252" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/ion.jpg",ION
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/901/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2330" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/localish.jpg",US Localish
+#EXTINF:0 tvg-rec="3"  group-title="NYC Local" tvg-id="2330" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/localish.jpg",US Localish
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1089/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2339" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wmbc_tv.jpg",WMBC-TV
+#EXTINF:0 tvg-rec="3"  group-title="NYC Local" tvg-id="2339" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wmbc_tv.jpg",WMBC-TV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1098/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2337" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/me_tv.jpg",MeTV
+#EXTINF:0 tvg-rec="3"  group-title="NYC Local" tvg-id="2337" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/me_tv.jpg",MeTV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1096/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Local" tvg-id="2336" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/njtv.jpg",NJTV
+#EXTINF:0 tvg-rec="3"  group-title="NYC Locall" tvg-id="2336" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/njtv.jpg",NJTV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1095/index.m3u8
 
 
-#EXTINF:0 tvg-rec="3" group-title="USA Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV
+#EXTINF:0 tvg-rec="3" group-title="Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2411/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV 2
+#EXTINF:0 tvg-rec="3" group-title="Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV 2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 
-
-#EXTINF:0 tvg-rec="3" group-title="USA Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV 3
+#EXTINF:0 tvg-rec="3" group-title="Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV 3
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2045/index.m3u8
 
-#EXTINF:0 tvg-rec="3" group-title="USA Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV 3 (RU)
+#EXTINF:0 tvg-rec="3" group-title="Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV 3 (RU)
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1010/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Fashion" tvg-id="2383" tvg-logo="https://telesputnik.ru/upload/iblock/1b8/Fashion-One_b.jpg",Fashion One
+#EXTINF:0 tvg-rec="3"  group-title="Fashion" tvg-id="2383" tvg-logo="https://telesputnik.ru/upload/iblock/1b8/Fashion-One_b.jpg",Fashion One
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2044/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Fashion" tvg-id="Fashion One HD" tvg-logo="https://telesputnik.ru/upload/iblock/1b8/Fashion-One_b.jpg",Fashion One HD
+#EXTINF:0 tvg-rec="3"  group-title="Fashion" tvg-id="Fashion One HD" tvg-logo="https://telesputnik.ru/upload/iblock/1b8/Fashion-One_b.jpg",Fashion One HD
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2044/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Fashion" tvg-id="2242" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/43/95/c3/4395c34e-bd46-a3c4-1b62-b4591800c8c1/contsched.xkqjdsfl.lsr/1024x1024bb.jpg",World Fashion Channel
+#EXTINF:0 tvg-rec="3"  group-title="Fashion" tvg-id="2242" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/43/95/c3/4395c34e-bd46-a3c4-1b62-b4591800c8c1/contsched.xkqjdsfl.lsr/1024x1024bb.jpg",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Fashion" tvg-id="" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png", ID Fashion
+#EXTINF:0 tvg-rec="3"  group-title="Fashion" tvg-id="" tvg-logo="https://n.divan.tv/img/global_img/media_api/channels/a05b3dfe/4e8ed074_med.png", ID Fashion
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/940/index.m3u8
 
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Other" tvg-id="2338" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/shop_lc.jpg",Shop LC
+#EXTINF:0 tvg-rec="3"  group-title="Other" tvg-id="2338" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/shop_lc.jpg",Shop LC
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1097/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="USA Other" tvg-id="2338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png",Nasa Public
+#EXTINF:0 tvg-rec="3"  group-title="Other" tvg-id="2338" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png",Nasa Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
