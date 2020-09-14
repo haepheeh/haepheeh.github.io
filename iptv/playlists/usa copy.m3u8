@@ -44,7 +44,8 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1085/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="General" tvg-id="2252" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/ion.jpg",ION
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/901/index.m3u8
 
-
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2337" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/me_tv.jpg",MeTV
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1096/index.m3u8
 
 
 #EXTINF:0 tvg-rec="3"  group-title="General" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/discovery_channel.jpg",Discovery Channel
@@ -96,6 +97,27 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6154/index.m3u8
 #EXTINF:0 tvg-rec="3" group-title="Movies" tvg-id="3089" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/thriller_max.jpg",ThrillerMax
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/6153/index.m3u8
 
+
+
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2334" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/13.jpg",Thirteen
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1093/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2335" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wliw21.jpg",WLIW21
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1094/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2253" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nyc_life.jpg",NYC Life
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/902/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2330" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/localish.jpg",US Localish
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1089/index.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2339" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wmbc_tv.jpg",WMBC-TV
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1098/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2336" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/njtv.jpg",NJTV
+http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1095/index.m3u8
+
 #EXTINF:0 tvg-rec="3"  group-title="General" tvg-id="2057" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/comedy_central.jpg",Comedy Central
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=fe5061c6-f16a-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
@@ -109,44 +131,14 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1097/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2337" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/me_tv.jpg",MeTV
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1096/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2334" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/13.jpg",Thirteen
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1093/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2335" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wliw21.jpg",WLIW21
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1094/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2253" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nyc_life.jpg",NYC Life
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/902/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2330" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/localish.jpg",Localish
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1089/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2339" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/wmbc_tv.jpg",WMBC-TV
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1098/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="Local" tvg-id="2336" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/njtv.jpg",NJTV
-http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1095/index.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox_news.jpg",FOX News
-http://163.172.186.160:8081/N1e6/tv/foxnews/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn_ny.jpg",CBSN NY
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/msnbc.jpg",MSNBC
 https://ctl.stream.msnbc.com/live/MSNBC398a080a-ua/master.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc_news.jpg",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cnn.jpg",CNN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=4accc8ee-ed7c-11ea-a4ee-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn.jpg",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn_ny.jpg",CBSN NY
-https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc7.jpg",ABC News NY
+https://abcvs.vuemix.com/v2/stls/playme.m3u8?sgrp=abc&video=t.fwcMkGYS%2FRgC1OW4%2FjqmNg%3D%3D%3A1599498935%3A-16000&video_profile=1040%2C1049&seek_to=0&anchor_at=1599503828&playback_at=1599503828&vod
 
 #EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/pix11_news.jpg",PIX11 News
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
@@ -154,17 +146,31 @@ https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/news12_brooklyn.jpg",News 12 Brooklyn
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/theweatherchannel.jpg",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/newsmax.jpg",NewsMax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbsn.jpg",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/nbc_news.jpg",NBC News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/fox_news.jpg",FOX News
+http://163.172.186.160:8081/N1e6/tv/foxnews/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/abc_news.jpg",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cnn.jpg",CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=4accc8ee-ed7c-11ea-a4ee-0242ac110002&userId=&serverSideAds=true
+
+
 
 #EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbn_news.jpg",CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/newsmax.jpg",NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:0 tvg-rec="3"  group-title="World News" tvg-id="2128" tvg-logo="https://goo.gl/z4jaQ6",CNBC
+#EXTINF:0 tvg-rec="3"  group-title="News" tvg-id="2128" tvg-logo="https://goo.gl/z4jaQ6",CNBC
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/962/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="World News" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/bloomberg.jpg",Bloomberg
@@ -172,6 +178,9 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="World News" tvg-id="2270" tvg-logo="https://goo.gl/9FNdLS",CNN International
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/842/index.m3u8
+
+
+
 
 #EXTINF:0 tvg-rec="3"  group-title="World News" tvg-id="Euronews" tvg-logo="https://goo.gl/Qo6MPH",Euronews
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/969/index.m3u8
@@ -206,6 +215,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
+
 #EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="2235" tvg-logo="https://shorturl.at/pZ178", MTV Rocks
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1038/index.m3u8
 
@@ -228,6 +238,10 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/724/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="491" tvg-logo="https://goo.gl/oS36vr",VH1 Europe
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/536/index.m3u8
 
+
+#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/live_music_replay.jpg",Live Music Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="575" tvg-logo="https://goo.gl/Ljo4tT",Mezzo
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/707/index.m3u8
 
@@ -241,8 +255,8 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2028/index.m3u8
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1037/index.m3u8
 
 
-#EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/live_music_replay.jpg",Live Music Replay
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=033c0f47-5a9d-4c2e-b401-c954cd6fc153&deviceLat=40.5697&deviceLon=-74.1184&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=14.0&includeExtendedEvents=false&marketingRegion=US&sid=7870cc42-eed4-11ea-b314-0242ac110002&userId=&serverSideAds=true
+
+
 
 #EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/rock_tv.jpg",Rock TV (Romania)
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
@@ -253,8 +267,12 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/2474/index.m3u8
 #EXTINF:0 tvg-rec="3"  group-title="Music" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/retro_music_television.jpg",Retro Music Television (Czech Republic)
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
+#EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/retro_plus.jpg",Retro Plus (Peru)
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
 #EXTINF:0 tvg-rec="3" group-title="Music" tvg-id="" tvg-logo="https://3.bp.blogspot.com/-Rv1gvOzraOc/XRZF4IzXeII/AAAAAAAABOY/iubeLKWC3Cc--BWvM_B_XZ73FG2EH2ynQCLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-38-01.png",NRJ HITS (Belgium)
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/cbs_sports_hq.jpg",SBS Sports HQ
@@ -271,6 +289,8 @@ http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1091/index.m3u8
 
 #EXTINF:0 tvg-rec="3"  group-title="Sports" tvg-id="2312" tvg-logo="https://www.gyolchanyan.com/iptv/logos/usa/mav_tv.jpg",MAVTV
 http://a473c68b.ottrast.com/iptv/PTY2K62GLK4C9L/1074/index.m3u8
+
+
 
 
 #EXTINF:0 tvg-rec="3" group-title="Fashion" tvg-id="2491" tvg-logo="https://www.accademiaitaliana.com/uploads/media/default/0001/01/thumb_780_default_header.jpeg",Fashion TV
